@@ -1,0 +1,10 @@
+D:\MAS TS Project\RFCCall\SAP\bin\Debug\SAP.exe.config
+D:\MAS TS Project\RFCCall\SAP\bin\Debug\SAP.exe
+D:\MAS TS Project\RFCCall\SAP\bin\Debug\SAP.pdb
+D:\MAS TS Project\RFCCall\SAP\bin\Debug\sapnco.dll
+D:\MAS TS Project\RFCCall\SAP\bin\Debug\sapnco_utils.dll
+D:\MAS TS Project\RFCCall\SAP\obj\Debug\SAP.csprojAssemblyReference.cache
+D:\MAS TS Project\RFCCall\SAP\obj\Debug\SAP.csproj.CoreCompileInputs.cache
+D:\MAS TS Project\RFCCall\SAP\obj\Debug\SAP.csproj.CopyComplete
+D:\MAS TS Project\RFCCall\SAP\obj\Debug\SAP.exe
+D:\MAS TS Project\RFCCall\SAP\obj\Debug\SAP.pdb

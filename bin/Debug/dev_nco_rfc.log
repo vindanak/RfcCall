@@ -1,0 +1,44 @@
+
+**** Log file opened by process 16340 at 2021-06-30 22:28:24 (UTC+05:30 Sri Lanka Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.17.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: D:\MAS TS Project\RFCCall\SAP\bin\Debug\SAP.exe
+Working directory: D:\MAS TS Project\RFCCall\SAP\bin\Debug
+Operating system: Windows 8 Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 623
+Hostname: MTS-LT-ICT238, IP address: 192.168.8.101, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2021-06-30 22:28:24.353 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidStateException: Cannot get destination DDM -- no destination configuration registered
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+>> Error entry 2021-06-30 22:28:24.399 [Thread 1]
+SAP.Middleware.Connector.RfcConfigurationException: system number must not be null or empty
+   at SAP.Middleware.Connector.RfcConfigParameters.NormalizedCopyTo(RfcConfigParameters target)
+   at SAP.Middleware.Connector.RfcConfigParameters.NormalizedCopy()
+   at SAP.Middleware.Connector.RfcDestination..ctor(String destName, RfcConfigParameters parameters)
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+
+**** Log file opened by process 18716 at 2021-07-01 09:21:31 (UTC+05:30 Sri Lanka Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.17.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: D:\MAS TS Project\RFCCall\SAP\bin\Debug\SAP.exe
+Working directory: D:\MAS TS Project\RFCCall\SAP\bin\Debug
+Operating system: Windows 8 Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 623
+Hostname: MTS-LT-ICT238, IP address: 10.230.137.137, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2021-07-01 09:21:32.010 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidStateException: Cannot get destination DDM -- no destination configuration registered
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+>> Error entry 2021-07-01 09:21:32.079 [Thread 1]
+SAP.Middleware.Connector.RfcConfigurationException: system number must not be null or empty
+   at SAP.Middleware.Connector.RfcConfigParameters.NormalizedCopyTo(RfcConfigParameters target)
+   at SAP.Middleware.Connector.RfcConfigParameters.NormalizedCopy()
+   at SAP.Middleware.Connector.RfcDestination..ctor(String destName, RfcConfigParameters parameters)
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
